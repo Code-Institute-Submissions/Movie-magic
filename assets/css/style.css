@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Poppins:wght@300&display=swap');
+
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+    color: crimson;
+
+}
+
+body {
+    font-family: 'Luckiest Guy', cursive;
+    font-weight: 300;
+    color: #3a3a3a;
+}
