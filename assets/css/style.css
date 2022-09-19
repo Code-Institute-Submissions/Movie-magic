@@ -10,9 +10,10 @@
 #logo {
     float: left;
     font-size: 400%;
-    margin-left: 30px;
+    margin-left: 65px;
     color: crimson;
     line-height: 75px;
+    
 
 
 }
@@ -33,6 +34,7 @@ ul > li {
     letter-spacing: 4px;
     color: white;
     line-height: 75px;
+    margin-right: 50px;
 
 }
 
@@ -45,11 +47,17 @@ ul > li {
 
 }
 
+#menu a:hover{
+    border-bottom: 1px crimson;
+
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
     background: url('../images/girlincinemaaffinity.jpg') no-repeat center center;
-
+    overflow: hidden;
+    position: relative;
 }
 
 #trailers{
@@ -78,7 +86,7 @@ p{
 
 #menu a{
     text-decoration: none;
-    color: inherit;
+    color: black;
 }
 
 #trailers a{
