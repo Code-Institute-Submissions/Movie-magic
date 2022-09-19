@@ -17,12 +17,13 @@ body {
 
 ul > li {
     font-family: 'Poppins', sans-serif;
-    color: crimson;
+    
 }
 
 #menu{
     font-size: 110%; 
     letter-spacing: 4px;
+    color: white;
 
 }
 
@@ -31,6 +32,7 @@ ul > li {
     list-style-type: none;
     margin-right: 30px;
     
+    
 
 }
 
@@ -38,6 +40,16 @@ ul > li {
     height: 600px;
     width: 100%;
     background: url('../images/girlincinemaaffinity.jpg') no-repeat center center;
+
+}
+
+#trailers{
+    background-image: url(../images/Trailerimage300px.jpg); 
+    float:left;
+    width: 33%;
+    padding: 0;
+    font-family: poppins;
+
 
 }
 
