@@ -15,6 +15,7 @@ Font taken from Font Awsome: 'https://fonts.googleapis.com/css2?family=Luckiest+
 ## Tutorial videos watched:
 * https://www.youtube.com/watch?v=_w6N_nplmAw, 
 * https://www.youtube.com/watch?v=kGA9RIFiyIE
+* https://www.youtube.com/watch?v=0I8FiWQao_I
 
 ## Social Network/ Form HTML and CSS: 
 
