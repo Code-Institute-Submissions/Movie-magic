@@ -316,7 +316,11 @@ display: inline;
 }
 
 @media screen and (max-width: 1200px) {
-
+    #home-page {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
     
 }
 
