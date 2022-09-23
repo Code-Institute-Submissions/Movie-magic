@@ -20,6 +20,13 @@ Font taken from Font Awsome: 'https://fonts.googleapis.com/css2?family=Luckiest+
 
 *Taken from Love Running Project/ Code Istitute 
 
+## Images for movie pages:
+
+Top Gun: 
+https://www.google.com/search?q=top+gun+maverick+horizontal+image&tbm=isch&ved=2ahUKEwjSgIfqyKr6AhXjQEEAHUhmBBYQ2-cCegQIABAA&oq=top+gun+maverick+horizontal+image&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQQzoFCAAQgAQ6BggAEB4QCDoECAAQGFDoAljIPGCEPWgLcAB4AIABOogB6weSAQIyMJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=D3gtY5K9O-OBhbIPyMyRsAE&bih=610&biw=1188#imgrc=hKXCKUeRdpJ2jM
+
+
+
 
 
 

@@ -171,7 +171,11 @@ display: inline;
 }
 
 .moviesabout{
-
+    clear: left;
+    background: url("/assets/images/moviespage.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
 }
 
 .form-section {
@@ -184,7 +188,7 @@ display: inline;
 
 .signup-form {
     margin: 150px 10% 0 0;
-    color: #fff;
+    color: #fafafa;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
@@ -207,4 +211,21 @@ display: inline;
     border: 1px solid #fafafa;
     border-radius: 2px;
 }
+
+.review-section {
+
+    font-family: 'Luckiest Guy', cursive, san-serif;
+    color: black;
+    width: 33%;
+    height: 180px;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+
+}
+
+
+
+
 
