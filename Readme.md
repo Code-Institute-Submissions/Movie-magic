@@ -6,6 +6,19 @@ Movie Magic is a one stop shop for all things movie related. From our unique mov
 
 This site enables users to quickly navigate to whatever area of the business interests them the most. 
 
+## Features:
+
+Landing Page: The landing page has a large image of a girl in a cinema with 4 menus on top and a clickable image under the H2 header at the bottom
+
+Menus: There are four main menues: 
+# Home
+# Movies: 
+This will take you to the movies page where up to date reviews of the latest movies are linked to our podcast through clickable images. 
+# Podcast
+This menu links to Podbean where our podcast will be located
+# Get in Touch: 
+This page links to a form where the visitor can sign up to be notified of new podcasts and reviews. 
+
 
 Header image source: https://www.pexels.com/photo/woman-with-3d-glasses-sitting-on-theatre-seat-7991524/
 
