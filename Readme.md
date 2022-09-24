@@ -27,6 +27,22 @@ Top Gun:
 https://www.google.com/search?q=top+gun+maverick+horizontal+image&tbm=isch&ved=2ahUKEwjSgIfqyKr6AhXjQEEAHUhmBBYQ2-cCegQIABAA&oq=top+gun+maverick+horizontal+image&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQQzoFCAAQgAQ6BggAEB4QCDoECAAQGFDoAljIPGCEPWgLcAB4AIABOogB6weSAQIyMJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=D3gtY5K9O-OBhbIPyMyRsAE&bih=610&biw=1188#imgrc=hKXCKUeRdpJ2jM
 
 
+## Validation: 
+The following message was issued when validation of the code: 
+Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed.
+
+From line 26, column 5; to line 26, column 13
+
+ader>↩    <section>↩ 
+
+
+
+# Decision on Validation
+
+As no heading was needed under the main H1 header I wasn't sure if one was needed at all so I left it the way it was. 
+
+
+
 
 
 
